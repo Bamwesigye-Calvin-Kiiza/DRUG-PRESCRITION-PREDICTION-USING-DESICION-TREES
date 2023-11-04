@@ -25,8 +25,8 @@ The dataset contains historical information about patients and their responses t
 
 ## Files
 
-- `drug_prescription_prediction.ipynb`: Jupyter Notebook containing the lab exercise.
-- `data.csv`: CSV file containing the dataset.
+- `drug_prescription_prediction.ipynb`: Jupyter Notebook .
+
 
 
 
