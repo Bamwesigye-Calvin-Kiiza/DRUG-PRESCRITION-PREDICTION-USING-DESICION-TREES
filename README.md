@@ -16,7 +16,7 @@ This repository contains usage of the Decision Tree algorithm for predicting dru
 Install the necessary Python libraries using the following command:
 
 ```bash
-pip install scikit-learn matplotlib
+pip install 'PACKAGE NAME'
 ```
 
 ## Dataset
